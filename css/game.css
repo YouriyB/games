@@ -1,0 +1,57 @@
+.screen
+{
+	width: 100%;
+	/*border: 1px solid red;*/
+}
+table.screen td
+{
+	width: 33%;
+}
+table.screen td.backMenu
+{
+	text-align: left;
+	vertical-align: top;
+}
+table.screen td.nextFigure
+{
+	text-align: left;
+	vertical-align: top;
+}
+table.screen td.score
+{
+	text-align: center;
+}
+table.screen td.help
+{
+	text-align: center;
+}
+#gameField, .game_field
+{
+	border: 5px double #333;
+	border-spacing: 1px 1px;
+}
+table#gameField td, table.game_field td
+{
+	width: 20px;
+	height: 20px;
+}
+.figure_cell
+{
+	background-color: #00ff00;
+}
+.empty_cell
+{
+	background-color: #b8b6b6;
+}
+.fill_cell
+{
+	background-color: #fefe01;
+}
+.del_cell
+{
+	background-color: #ff0000;
+}
+.full_cell
+{
+	background-color: #e30af5;
+}

@@ -1,0 +1,1 @@
+[{"name":"\u043d\u043e\u0432\u0438\u0447\u0451\u043a","score":1000},{"name":"very good","score":168},{"name":"good","score":23},{"name":"null","score":20},{"name":"hhh","score":7},{"name":"null","score":4},{"name":"123","score":2},{"name":"null","score":2},{"name":"eer","score":1},{"name":"bad","score":1}]
